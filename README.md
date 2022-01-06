@@ -2,7 +2,7 @@
 
 ### Requirements
 - XML files with parallel data
-- "source" and "target" tags to be present inside the XML files (containing elements of parallel corpus), or else these tags can be replaced in the code
+- "source" and "target" tags to be present inside the XML files (containing text inside), or else these tags can be replaced in the code
 
 ### Description
 
