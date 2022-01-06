@@ -1,0 +1,13 @@
+culture/*.en
+culture/*.hi
+culture/*.xml
+culture/*.tsv
+parallel/*.en
+parallel/*.hi
+parallel/*.tsv
+datasource/*.xml
+*.en
+*.hi
+*.tsv
+
+
